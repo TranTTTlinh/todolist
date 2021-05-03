@@ -12,6 +12,11 @@ use Carbon\Carbon;
 
 class TodoController extends Controller
 {
+    /**
+     * Undocumented function
+     * có chỉnh sửa ở đây
+     * @return void
+     */
     public function AuthLogin() {
         $id = Session::get('id');
         if($id) {
