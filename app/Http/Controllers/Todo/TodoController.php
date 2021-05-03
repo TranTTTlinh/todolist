@@ -21,6 +21,11 @@ class TodoController extends Controller
         }
     }
 
+    /**
+     * Undocumented function
+     * đạt chỉnh sửa ở đây
+     * @return void
+     */
     public function add_todo() {
         $this->AuthLogin();
         $typeTodo = DB::table('typetodolist')->get();
