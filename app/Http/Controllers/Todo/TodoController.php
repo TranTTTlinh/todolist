@@ -14,7 +14,6 @@ class TodoController extends Controller
 {
     /**
      * Undocumented function
-     * có chỉnh sửa ở đây
      * @return void
      */
     public function AuthLogin() {
@@ -28,7 +27,6 @@ class TodoController extends Controller
 
     /**
      * Undocumented function
-     * đạt chỉnh sửa ở đây
      * @return void
      */
     public function add_todo() {

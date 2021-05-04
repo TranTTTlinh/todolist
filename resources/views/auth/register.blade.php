@@ -51,7 +51,7 @@
                     <!-- <h6><a href="#">Lost Your Password?</a></h6> -->
                 </div>
                 <!-- //main -->
-                <p>Có tài khoản rồi | <a href="{{ URL::to('/login') }}">Đăng nhập thôi</a></p>
+                <p>Có tài khoản rồi | <a href="{{ URL::to('/login') }}">Đăng nhập</a></p>
                 <!--footer-->
                 <div class="footer-w3l">
                     <p>&copy; All rights reserved | Design by <a
